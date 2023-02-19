@@ -2,7 +2,6 @@
 title: Massive cooperation Documentation
 nav_order: 1
 layout: home
-has_children: true
 ---
 # Massive cooperation framework Open Source documentation
 
