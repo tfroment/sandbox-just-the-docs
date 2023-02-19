@@ -1,9 +1,8 @@
 ---
 layout: default
 title: 01 - CCC Change Community Cycle
-parent: Community Booster Training
+grand_parent: Massive cooperation documentation
 nav_order: 4
-permalink: /docs/ccc
 ---
 
 # CCC powerpoint documentation

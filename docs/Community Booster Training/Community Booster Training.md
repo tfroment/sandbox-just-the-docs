@@ -9,4 +9,4 @@ permalink: /docs/community-booster-training
 
 # Community Booster Training
 
-- [ccc model core](/docs/ccc)
+blablabla
