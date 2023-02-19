@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Leaders Training
-nav_order: 4
+nav_order: 3
 parent: Massive cooperation Documentation
 permalink: /docs/leaders-training
 has_children: false
