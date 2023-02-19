@@ -5,3 +5,5 @@ parent:  'Community Booster Training'
 nav_order: 3
 ---
 
+# CCC powerpoint documentation
+https://github.com/tfroment/sandbox/blob/main/docs/InnerSource%20definition.pptx?raw=true
